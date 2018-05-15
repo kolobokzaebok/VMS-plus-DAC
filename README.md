@@ -65,6 +65,7 @@ While defining HTTP Requests properties via the Client towards Paxton, next fiel
 
 4. HTTP Content: madagascar.
 
+![Screenshot](https://github.com/kolobokzaebok/VMS-plus-DAC/blob/master/images/scr1.jpg)
 
 Comments:
 
