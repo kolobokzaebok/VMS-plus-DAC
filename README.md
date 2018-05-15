@@ -4,6 +4,7 @@ Welcome to a complete guide on how to integrate NxWitness VMS with Paxton Door A
 
 Starting from version 3.1 NxWitness __Media Server__ can send __HTTP Requests__ on demand every time a "Soft Trigger" is clicked via NxWitness __Desktop Client__.
 
+(VMS-plus-DAC/ofd.jpg)
 
 Links to the 3rd Party installers:
 
